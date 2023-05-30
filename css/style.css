@@ -12,7 +12,7 @@ body {
 	display: flex;
     flex-direction: column;
     background-color: #DFDBE5;
-    background-image: url("images/red.jpeg");
+    background-image: url("./images/red.jpeg");
     color:##030303;
 }
 
